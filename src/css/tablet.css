@@ -1,0 +1,23 @@
+.main {
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+.all-tasks {
+    max-width: 340px;
+    margin-top: 60px;
+    align-self: flex-start;
+}
+
+.todo-list {
+    height: auto;
+    margin: 60px auto 60px auto;
+    margin-top: 60px;
+}
+
+.footer {
+    margin-bottom: 60px;
+}
+
